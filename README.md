@@ -1,2 +1,2 @@
-# CSkeletons
-Reusable C makefile and C++ CMake files
+# makefiles
+Makefile templates for various programming languages
